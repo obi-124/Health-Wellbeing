@@ -1,0 +1,260 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+body{
+  background-color: aliceblue;
+}
+
+a {
+  font-family: 'Righteous';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 100px;
+  color: royalblue;
+
+}
+
+#Calendar {
+  position: absolute;
+  width: 222px;
+  height: 226px;
+  left: 76px;
+  top: 219px;
+  background: url(Pictures/Calendar.png);
+}
+
+p.Calendar_Title {
+  position: absolute;
+  width: 177px;
+  height: 51px;
+  left: 35px;
+  top: -85px;
+  font-family: 'Righteous';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 50px;
+  color: #FECE85;
+}
+
+#Upcoming {
+  position: absolute;
+  width: 684px;
+  height: 265px;
+  left: 339px;
+  top: 182px;
+  background: #D6EEF3;
+  border-radius: 23px;
+}
+
+p.Upcoming_Title {
+  position: flex;
+  margin-left: 30px;
+  width: 326px;
+  height: 59px;
+  left: 376px;
+  top: 193px;
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 62px;
+  color: #7EB4C0;
+}
+
+ul > li {
+  position: flex;
+  width: 339px;
+  height: 80px;
+  left: 335px;
+  top: 262px;
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 5px;
+  color: #FFFFFF;
+}
+
+#Leaderboard {
+  position: absolute;
+  width: 353px;
+  height: 396px;
+  left: 1060px;
+  top: 185px;
+  background: #FEDDDD;
+  border-radius: 23px;
+}
+
+p.Leaderboard_Title {
+  text-align: center;
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 62px;
+  margin-top: -5px;
+  padding-bottom: 10px;
+  color: #FFFFFF;
+}
+
+ol > li {
+  position: flex;
+  width: 339px;
+  height: 80px;
+  left: 335px;
+  top: 262px;
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 50px;
+  padding-bottom: 20px;
+  color: #FFFFFF;
+}
+
+li > img {
+width: 75px;
+height: 75px;
+left: 1075px;
+top: 281px;
+line-height: 70px;
+margin-top: -40px;
+}
+
+#Workout {
+  position: absolute;
+  width: 389px;
+  height: 456px;
+  left: 101px;
+  top: 512px;
+  background: #C9FFBC;
+  border-radius: 23px;
+}
+
+p.Workout_Title {
+text-align: center;
+font-family: Righteous;
+font-style: normal;
+font-weight: normal;
+font-size: 45px;
+line-height: 56px;
+color: #FFFFFF;
+}
+
+#Workout_Icon {
+position: absolute;
+width: 182px;
+height: 165px;
+left: 204px;
+top: 709px;
+background: url(Pictures/Exercise_icon.png);
+}
+
+#Recipes{
+  position: absolute;
+  width: 398px;
+  height: 461px;
+  left: 580px;
+  top: 507px;
+  background: #FFE5A3;
+  border-radius: 23px;
+}
+
+#Recipes_Icon {
+  position: absolute;
+  width: 178px;
+  height: 178px;
+  left: 600px;
+  top: 687px;
+  background: url(Pictures/Recipes_icon.png);
+}
+
+p.Recipe_Title {
+  text-align: center;
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 62px;
+  color: #FFFFFF;
+}
+
+#Music {
+  position: absolute;
+  width: 344px;
+  height: 337px;
+  left: 1056px;
+  top: 607px;
+  background: #E9BAF4;
+  border-radius: 23px;
+}
+
+p.Music_Title {
+  text-align: center;
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 45px;
+  line-height: 56px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  color: #FFFFFF;
+}
+
+#Coverbkg > img {
+  width: 300px;
+  height: 260px;
+  left: 1146px;
+  top: 674px;
+  padding-left: 30px;
+  margin-bottom: 20px;
+}
+
+#navbar{
+  position: absolute;
+  width: 100%;
+  height: 80px;
+  left: 0px;
+  top: 0px;
+
+  background: #FFA959;
+
+}
+#sitelinks{
+  position: absolute;
+  width: 100%;
+  height: 40px;
+  left: 0px;
+  top: 80px;
+
+  background: #FFBF85;
+}
+.sitelink{
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 50px;
+  text-decoration: none;
+  position: relative;
+
+  color: #FFFFFF;
+
+}
+#title {
+  position: absolute;
+  width: 391px;
+  height: 82px;
+  left: 51px;
+  top: -80px;
+  z-index: 10;
+
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 64px;
+  line-height: 112px;
+
+  color: #FFFFFF;
+}

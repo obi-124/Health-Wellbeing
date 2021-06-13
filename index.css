@@ -1,0 +1,256 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+
+
+#navbar{
+  position: absolute;
+  width: 100%;
+  height: 80px;
+  left: 0px;
+  top: 0px;
+
+  background: #FFA959;
+
+}
+#sitelinks{
+  position: absolute;
+  width: 100%;
+  height: 40px;
+  left: 0px;
+  top: 80px;
+
+  background: #FFBF85;
+}
+.sitelink{
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 50px;
+  text-decoration: none;
+  position: relative;
+
+  color: #FFFFFF;
+
+}
+
+#sitelinks :hover {
+  color: #000;
+}
+
+#title {
+  position: absolute;
+  width: 391px;
+  height: 82px;
+  left: 51px;
+  top: -80px;
+  z-index: 10;
+
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 64px;
+  line-height: 112px;
+
+  color: #FFFFFF;
+}
+
+#About {
+  width: 658px;
+  height: 423px;
+  left: 712px;
+  top: 1143px;
+  line-height: 50px;
+  background: #96EF77;
+  border-radius: 32px;
+  color: white
+}
+
+#slogan {
+  position: absolute;
+  width: 543px;
+  height: 150px;
+  left: 92px;
+  top: 122px;
+
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 56px;
+  line-height: 79px;
+
+  color: #FFA959;
+
+}
+
+#click {
+  position: absolute;
+  width: 403px;
+  height: 90px;
+  left: 77px;
+  top: 453px;
+
+  background: #FFE5A3;
+  border-radius: 23px;
+}
+
+#join {
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 75px;
+  text-decoration: none;
+  position: absolute;
+  top: 7px;
+  left: 45px;
+
+  color: #FFFFFF;
+
+}
+
+#panda {
+  position: absolute;
+  width: 400px;
+  
+  left: 706px;
+  top: 153px;
+
+}
+
+#autext {
+  position: absolute;
+  width: 289px;
+  height: 74px;
+  left: 729px;
+  top: 588px;
+
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 64px;
+  line-height: 79px;
+
+  color: #6DE842;
+
+}
+#boy {
+
+  position: absolute;
+  width: 253px;
+  height: 253px;
+  left: 88px;
+  top: 741px;
+}
+
+#girl {
+
+  position: absolute;
+  width: 253px;
+  height: 253px;
+  left: 386px;
+  top: 821px;
+}
+
+#greenbox{
+
+  position: absolute;
+  width: 480px;
+  height: 353px;
+  left: 712px;
+  top: 750px;
+
+  background: #96EF77;
+  border-radius: 32px;
+
+  
+}
+
+#paratext {
+  position: absolute;
+  left: 20px;
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 40px;
+
+  color: #FFFFFF;
+
+}
+
+#featurestitle {
+  position: absolute;
+  width: 273px;
+  height: 85px;
+  left: 480px;
+  top: 1084px;
+
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 64px;
+  line-height: 79px;
+
+  color: #85E2FF;
+}
+
+.featbox {
+  position: absolute;
+  width: 357px;
+  height: 288px;
+  
+  top: 1261px;
+
+  background: #89D8F1;
+  border-radius: 33px;
+}
+
+.text{
+  position: absolute;
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 34px;
+
+  color: #FFFFFF;
+
+}
+
+#FAQtitle {
+  position: absolute;
+  width: 875px;
+  height: 83px;
+  left: 175px;
+  top: 1613px;
+
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 64px;
+  line-height: 79px;
+
+  color: #F49B9B;
+}
+
+.redrec {
+  position: absolute;
+  background: #FF736A;
+  border-radius: 32px;
+}
+#bottom {
+  position: absolute;
+  width: 441px;
+  height: 56px;
+  left: 563px;
+  top: 2350px;
+
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 50px;
+
+  color: #FFA959;
+}

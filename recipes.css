@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+body{
+  background-color: #FFBF85;
+}
+
+.Review {
+  position: absolute;
+  width: 928px;
+  height: 211px;
+  left: 49px;
+  top: 172px;
+  background: #BBF0B6;
+  border-radius: 23px;
+}
+
+.User_reviews {
+width: 496px;
+height: 50px;
+left: 20px;
+top: 50px;
+font-family: Righteous;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 37px;
+color: #FFFFFF;
+}
+
+section > p {
+position: absolute;
+width: 269px;
+height: 49px;
+left: 20px;
+top: -30px;
+font-family: Righteous;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 50px;
+
+color: #6DBB66;
+}
+
+.Option1 {
+  position: absolute;
+  width: 380px;
+  height: 445px;
+  left: 49px;
+  top: 466px;
+  background: #ACD7DA;
+  border-radius: 23px;
+}
+
+.Option2 {
+  position: absolute;
+  width: 380px;
+  height: 445px;
+  left: 513px;
+  top: 466px;
+  background: #ACD7DA;
+  border-radius: 23px;
+}
+
+.Option3 {
+  position: absolute;
+  width: 380px;
+  height: 445px;
+  left: 977px;
+  top: 466px;
+  background: #ACD7DA;
+  border-radius: 23px;
+}
+
+.Title {
+  width: 337px;
+  height: 60px;
+  left: 525px;
+  top: 150px;
+
+  font-family: "Righteous";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 62px;
+  text-align: center;
+
+  color: white;
+
+}
+
+.Title1 {
+width: 354px;
+height: 50px;
+left: 62px;
+top: 566px;
+font-family: 'Righteous';
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 50px;
+text-align: center;
+padding-left: 10px;
+color: #FFFFFF;
+}
+
+.Title2 {
+width: 354px;
+height: 50px;
+left: 627px;
+top: 566px;
+font-family: 'Righteous';
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 50px;
+text-align: center;
+padding-left: 10px;
+color: #FFFFFF;
+}
+
+.Title3 {
+width: 354px;
+height: 50px;
+left: 1058px;
+top: 566px;
+font-family: 'Righteous';
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 50px;
+text-align: center;
+padding-left: 10px;
+color: #FFFFFF;
+}
+
+.Icons {
+  padding: 120px;
+}
+
+#Home {
+  position: absolute;
+width: 67px;
+height: 67px;
+left: 1324px;
+top: 30px;
+
+}

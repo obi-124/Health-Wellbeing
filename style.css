@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+
+
+#navbar{
+  position: fixed;
+  width: 1468px;
+  height: 80px;
+  left: -16px;
+  top: 0px;
+
+  background: #FFA959;
+
+}
+#sitelinks{
+  position: fixed;
+  width: 1440px;
+  height: 40px;
+  left: 0px;
+  top: 80px;
+
+  background: #FFBF85;
+}
+#title {
+  position: fixed;
+  width: 391px;
+  height: 82px;
+  left: 51px;
+  top: -25px;
+  z-index: 10;
+
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 90px;
+  line-height: 112px;
+
+  color: #FFFFFF;
+}
+
+#About {
+  width: 658px;
+  height: 423px;
+  left: 712px;
+  top: 1143px;
+  line-height: 50px;
+  background: #96EF77;
+  border-radius: 32px;
+  color: white
+}

@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+body{
+  background: #C9FFBC;
+}
+
+#title {
+  position: absolute;
+  width: 482px;
+  height: 88px;
+  left: 73px;
+  top: 2px;
+
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 70px;
+  line-height: 87px;
+
+  color: #FFFFFF;
+
+}
+
+#focus{
+  position: absolute;
+  width: 720px;
+  height: 79px;
+  left: 73px;
+  top: 130px;
+
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 60px;
+  line-height: 75px;
+
+  color: #6AC9FF;
+}
+
+#workout {
+  position: absolute;
+  width: 665px;
+  height: 306px;
+  left: 38px;
+  top: 230px;
+
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 62px;
+
+  color: #B294B7;
+
+}
+
+#exercise {
+  position: absolute;
+  width: 362px;
+  height: 362px;
+  left: 996px;
+  top: 205px;
+  }
+#inspo {
+  position: absolute;
+  width: 322px;
+  height: 61px;
+  left: 1036px;
+  top: 536px;
+
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 62px;
+
+  color: #8EAFE2;
+}
+
+#stopwatch {
+  position: absolute;
+  width: 794px;
+  height: 377px;
+  left: 114px;
+  top: 556px;
+
+  background: #89D8F1;
+  border-radius: 73px;
+  }
+h1 {
+  position: relative;
+  width: 794;
+  height: 88px;
+  text-align: center;
+  top: -40px;
+
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 70px;
+  line-height: 87px;
+
+  color: #FFFFFF;
+}
+
+.watch {
+  position: absolute;
+  width: 367px;
+  height: 148px;
+  left: 221px;
+  top: 0px;
+
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 125px;
+  line-height: 155px;
+
+  color: #FFFFFF;
+
+}
+
+#start {
+  
+  
+  text-align: center;
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  
+
+  color: #6AC9FF;
+  position: absolute;
+  width: 240px;
+  height: 65px;
+  left: 31px;
+  top: 270px;
+
+  background: #FFFFFF;
+  border-radius: 73px;
+  }
+
+#start:hover {
+  background: #30BCE8;
+  color: white;
+}
+
+#stop {
+  text-align: center;
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  
+
+  color: #6AC9FF;
+  position: absolute;
+  width: 240px;
+  height: 65px;
+  left: 281px;
+  top: 270px;
+
+  background: #FFFFFF;
+  border-radius: 73px;
+}
+
+#stop:hover {
+  background: #30BCE8;
+  color: white;
+}
+
+
+#reset {
+  text-align: center;
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  
+
+  color: #6AC9FF;
+  position: absolute;
+  width: 240px;
+  height: 65px;
+  left: 531px;
+  top: 270px;
+
+  background: #FFFFFF;
+  border-radius: 73px;
+}
+
+#reset:hover {
+  background: #30BCE8;
+  color: white;
+}
+
+.buttext {
+  position: absolute;
+  width: 159px;
+  height: 51px;
+
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 60px;
+
+  color: #6AC9FF;
+}
