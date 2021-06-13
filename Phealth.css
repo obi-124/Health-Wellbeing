@@ -209,3 +209,11 @@ h1 {
 
   color: #6AC9FF;
 }
+#Home {
+  position: absolute;
+width: 67px;
+height: 67px;
+left: 1324px;
+top: 30px;
+
+}
