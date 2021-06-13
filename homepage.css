@@ -258,3 +258,20 @@ p.Music_Title {
 
   color: #FFFFFF;
 }
+
+#logout {
+  position: absolute;
+  width: 188px;
+  height: 61px;
+  left: 1165px;
+  top: 15px;
+  text-decoration: none;
+
+  font-family: Righteous;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 60px;
+
+  color: #FA0F00;
+}

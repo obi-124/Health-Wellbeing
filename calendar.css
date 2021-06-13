@@ -27,3 +27,9 @@ top: 30px;
   color: #F5B973;
 
 }
+
+#calendar {
+  width: 100%;
+  position: absolute;
+  top: 300px; 
+}
